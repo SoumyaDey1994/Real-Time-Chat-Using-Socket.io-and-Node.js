@@ -1,0 +1,16 @@
+{
+  "name": "Chatroom App",
+  "version": "1.0.0",
+  "description": "A Simple chatroo app using Socket.io & Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server"
+  },
+  "keywords": [],
+  "author": "Soumya Dey",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  }
+}
